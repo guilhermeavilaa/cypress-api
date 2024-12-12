@@ -10,7 +10,7 @@ Testes automatizado do desafio de automação API
 6. Clicar em "OK"
 ## Instruções
 1. Baixe e instale o Node: [https://nodejs.org/]
-2. Clone o projeto no repositório usando: `git clone git@github.com:guilhermeavilaa/cypress-web.git` (SSH) or `https://github.com/guilhermeavilaa/cypress-web.git` (HTTPS)
+2. Clone o projeto no repositório usando: `git clone git@github.com:guilhermeavilaa/cypress-api.git` (SSH) or `https://github.com/guilhermeavilaa/cypress-api.git` (HTTPS)
 3. Com o terminal aberto no diretório raiz do projeto rodar os comandos `npm install` e `npx cypress open` para abrir o framework
 4. Após a inicialização do Cypress selecionar e rodar de teste desejado que ele já irá executar todos os casos de teste.
 
